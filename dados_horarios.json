@@ -1,0 +1,4580 @@
+{
+  "version": 3,
+  "tables": {
+    "ofertas": [],
+    "bloqueios": [
+      {
+        "professor": "Simone",
+        "dia": "Segunda",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Segunda",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Segunda",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Segunda",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Segunda",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Segunda",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Terça",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Terça",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Terça",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Terça",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Terça",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Terça",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Quarta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Quarta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Quarta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Quarta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Quarta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Simone",
+        "dia": "Quarta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Segunda",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Segunda",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Segunda",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Segunda",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Segunda",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Segunda",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quarta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quarta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quarta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quarta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quarta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quarta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quinta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quinta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quinta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quinta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quinta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Quinta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Sexta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Sexta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Sexta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Sexta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Sexta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Yoga",
+        "dia": "Sexta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Segunda",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Segunda",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Segunda",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Terça",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Quarta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Quarta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Quarta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Quarta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Quarta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Quarta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Quinta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Sexta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Sexta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Sexta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Sexta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Sexta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Angela",
+        "dia": "Sexta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Terça",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Terça",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Terça",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Terça",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Terça",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Terça",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quarta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quarta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quarta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quarta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quarta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quarta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quinta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quinta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quinta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quinta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quinta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Quinta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Sexta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Sexta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Sexta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Sexta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Sexta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Ana Leticia",
+        "dia": "Sexta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Segunda",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Segunda",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Segunda",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Segunda",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Segunda",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Segunda",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Quarta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Quarta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Quarta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Quarta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Quarta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Quarta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Sexta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Sexta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Sexta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Sexta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Sexta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Henrique",
+        "dia": "Sexta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Janna",
+        "dia": "Segunda",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Janna",
+        "dia": "Terça",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Janna",
+        "dia": "Quarta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Janna",
+        "dia": "Quarta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Janna",
+        "dia": "Quarta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Janna",
+        "dia": "Quarta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Janna",
+        "dia": "Quarta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Janna",
+        "dia": "Quarta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Janna",
+        "dia": "Quinta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Janna",
+        "dia": "Sexta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Leonel",
+        "dia": "Quarta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Leonel",
+        "dia": "Quarta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Leonel",
+        "dia": "Quarta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Leonel",
+        "dia": "Quarta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Leonel",
+        "dia": "Quarta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Leonel",
+        "dia": "Quarta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Pamela",
+        "dia": "Segunda",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Pamela",
+        "dia": "Segunda",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Pamela",
+        "dia": "Segunda",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Pamela",
+        "dia": "Segunda",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Pamela",
+        "dia": "Segunda",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Pamela",
+        "dia": "Segunda",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Renata",
+        "dia": "Terça",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Renata",
+        "dia": "Terça",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Renata",
+        "dia": "Terça",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Renata",
+        "dia": "Terça",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Renata",
+        "dia": "Terça",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Renata",
+        "dia": "Terça",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Segunda",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Segunda",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Segunda",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Segunda",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Segunda",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Segunda",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Sexta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Sexta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Sexta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Sexta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Sexta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Sandro",
+        "dia": "Sexta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Segunda",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Segunda",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Segunda",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Segunda",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Segunda",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Segunda",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Terça",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Terça",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Terça",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Terça",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Terça",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Terça",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Quinta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Quinta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Quinta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Quinta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Quinta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Quinta",
+        "aula": 6,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Sexta",
+        "aula": 1,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Sexta",
+        "aula": 2,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Sexta",
+        "aula": 3,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Sexta",
+        "aula": 4,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Sexta",
+        "aula": 5,
+        "dia_inteiro": false
+      },
+      {
+        "professor": "Joice",
+        "dia": "Sexta",
+        "aula": 6,
+        "dia_inteiro": false
+      }
+    ],
+    "sincronizacoes": [
+      {
+        "id": "CAD-80821DDEE2",
+        "grupo": "Art6"
+      },
+      {
+        "id": "CAD-2D8EED4FF9",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-EA322492A2",
+        "grupo": "Ef6"
+      },
+      {
+        "id": "CAD-7E7AFA37AB",
+        "grupo": "Emp6"
+      },
+      {
+        "id": "CAD-E7011CF301",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-2E999BE099",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-57DB9D4B7A",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-BB3B244C5B",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-E952DC52CF",
+        "grupo": "Mak6"
+      },
+      {
+        "id": "CAD-E047483488",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-162B98EA7F",
+        "grupo": "Yo6"
+      },
+      {
+        "id": "CAD-6BA1C9C1EA",
+        "grupo": "Art6"
+      },
+      {
+        "id": "CAD-B4F0689C57",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-FCBCE314FB",
+        "grupo": "Ef6"
+      },
+      {
+        "id": "CAD-36A4A5595C",
+        "grupo": "Emp6"
+      },
+      {
+        "id": "CAD-184EC172EA",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-0844EC0208",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-C6E5FF2878",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-4659568172",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-BEFD91ED38",
+        "grupo": "Mak6"
+      },
+      {
+        "id": "CAD-6EE52F0293",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-F15F5A3E8D",
+        "grupo": "Yo6"
+      },
+      {
+        "id": "CAD-BCD3D97819",
+        "grupo": "Art7"
+      },
+      {
+        "id": "CAD-0988865CC2",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-84C08E5BF4",
+        "grupo": "Ef7"
+      },
+      {
+        "id": "CAD-C7CC9651E3",
+        "grupo": "Emp7"
+      },
+      {
+        "id": "CAD-E5AE9C6FA3",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-0040FC8D0D",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-E6896A6046",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-9B7AB7187A",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-A55E58EF72",
+        "grupo": "Mak7"
+      },
+      {
+        "id": "CAD-B948A21EA1",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-CDDC73189C",
+        "grupo": "Yo7"
+      },
+      {
+        "id": "CAD-CC360B6435",
+        "grupo": "Art7"
+      },
+      {
+        "id": "CAD-A11D392DDB",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-7A828740F0",
+        "grupo": "Ef7"
+      },
+      {
+        "id": "CAD-C2948A03D2",
+        "grupo": "Emp7"
+      },
+      {
+        "id": "CAD-8E0B3A4400",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-90D3C95B20",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-A5F43C20D3",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-4219F58244",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-2044339F85",
+        "grupo": "Mak7"
+      },
+      {
+        "id": "CAD-594486B926",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-0612D251CF",
+        "grupo": "Yo7"
+      },
+      {
+        "id": "CAD-B0A4C9B208",
+        "grupo": "Art7"
+      },
+      {
+        "id": "CAD-4F4B74C2AF",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-D5AC9340CB",
+        "grupo": "Ef7"
+      },
+      {
+        "id": "CAD-8860C11EAC",
+        "grupo": "Emp7"
+      },
+      {
+        "id": "CAD-BFFD62E82B",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-A11B592E83",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-FCC97D885F",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-F400B0B976",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-DAACB665D9",
+        "grupo": "Mak8"
+      },
+      {
+        "id": "CAD-D0003E3A69",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-21B0802799",
+        "grupo": "Yo7"
+      },
+      {
+        "id": "CAD-5D47F6E427",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-5F8118FF99",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-0CA5D9FF8E",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-5FE2C14449",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-BE49B17008",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-6FCDF1543B",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-258B96FFF4",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-BC262A8336",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-FA307A1188",
+        "grupo": "Mak8"
+      },
+      {
+        "id": "CAD-1D1FBC0BB9",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-A6660FFE6C",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-42ECB8F9FE",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-E8A507A996",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-BECAC71CD5",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-ECAF3C14E4",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-8081EB7993",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-B602E73502",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-E5625FFD96",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-CCE0B3F54C",
+        "grupo": ""
+      },
+      {
+        "id": "CAD-E7F67AD72A",
+        "grupo": ""
+      }
+    ],
+    "preferencias": [],
+    "atividades": [
+      {
+        "atividade": "Ingles",
+        "dia": "Segunda",
+        "aula": "6",
+        "duracao": "1",
+        "turmas": "6A, 6B, 7A, 7B, 7C, 8A, 9A",
+        "professores": ""
+      },
+      {
+        "atividade": "Ingles",
+        "dia": "Quarta",
+        "aula": "6",
+        "duracao": "1",
+        "turmas": "6A, 6B, 7A, 7B, 7C, 8A, 9A",
+        "professores": ""
+      },
+      {
+        "atividade": "Ingles",
+        "dia": "Sexta",
+        "aula": "6",
+        "duracao": "1",
+        "turmas": "6A, 6B, 7A, 7B, 7C, 8A, 9A",
+        "professores": ""
+      },
+      {
+        "atividade": "Prova",
+        "dia": "Quarta",
+        "aula": "1",
+        "duracao": "1",
+        "turmas": "6A, 6B, 7A, 7B, 7C, 8A, 9A",
+        "professores": ""
+      },
+      {
+        "atividade": "Assembleia",
+        "dia": "Quarta",
+        "aula": "2",
+        "duracao": "1",
+        "turmas": "6A, 6B, 7A, 7B, 7C, 8A, 9A",
+        "professores": ""
+      }
+    ],
+    "vinculos": [
+      {
+        "turma": "7A",
+        "professor": "Aline",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Ana Leticia",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Augusto",
+        "disciplina": "Física",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Augusto",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Dani",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Fabiano",
+        "disciplina": "História",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Henrique",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Joice",
+        "disciplina": "Emp.",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Leonel",
+        "disciplina": "Matemática",
+        "aulas_semana": 5,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Renata",
+        "disciplina": "Geografia",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Sandro",
+        "disciplina": "Ciências",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Sandy",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Simone",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Vica",
+        "disciplina": "Gramática",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Yoga",
+        "disciplina": "Yoga",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7A",
+        "professor": "Pamela",
+        "disciplina": "Literatura",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Aline",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Ana Leticia",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Augusto",
+        "disciplina": "Física",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Augusto",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Dani",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Fabiano",
+        "disciplina": "História",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Henrique",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Joice",
+        "disciplina": "Emp.",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Leonel",
+        "disciplina": "Matemática",
+        "aulas_semana": 5,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Renata",
+        "disciplina": "Geografia",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Sandro",
+        "disciplina": "Ciências",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Sandy",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Simone",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Vica",
+        "disciplina": "Gramática",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Yoga",
+        "disciplina": "Yoga",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7B",
+        "professor": "Pamela",
+        "disciplina": "Literatura",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Aline",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Ana Leticia",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Augusto",
+        "disciplina": "Física",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Augusto",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Dani",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Fabiano",
+        "disciplina": "História",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Henrique",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Joice",
+        "disciplina": "Emp.",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Leonel",
+        "disciplina": "Matemática",
+        "aulas_semana": 5,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Renata",
+        "disciplina": "Geografia",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Sandro",
+        "disciplina": "Ciências",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Sandy",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Simone",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Vica",
+        "disciplina": "Gramática",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Yoga",
+        "disciplina": "Yoga",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "7C",
+        "professor": "Pamela",
+        "disciplina": "Literatura",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Aline",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Ana Leticia",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Augusto",
+        "disciplina": "Física",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Augusto",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Dani",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Fabiano",
+        "disciplina": "História",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Henrique",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Janna",
+        "disciplina": "Matemática",
+        "aulas_semana": 5,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Joice",
+        "disciplina": "Emp.",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Pamela",
+        "disciplina": "Literatura",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Renata",
+        "disciplina": "Geografia",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Sandro",
+        "disciplina": "Ciências",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Sandy",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Simone",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Yoga",
+        "disciplina": "Yoga",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6A",
+        "professor": "Vica",
+        "disciplina": "Gramática",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Aline",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Ana Leticia",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Augusto",
+        "disciplina": "Física",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Augusto",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Dani",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Fabiano",
+        "disciplina": "História",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Henrique",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Janna",
+        "disciplina": "Matemática",
+        "aulas_semana": 5,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Joice",
+        "disciplina": "Emp.",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Pamela",
+        "disciplina": "Literatura",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Renata",
+        "disciplina": "Geografia",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Sandro",
+        "disciplina": "Ciências",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Sandy",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Simone",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Yoga",
+        "disciplina": "Yoga",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "6B",
+        "professor": "Vica",
+        "disciplina": "Gramática",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Aline",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Ana Leticia",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Angela",
+        "disciplina": "Mat/Gramática",
+        "aulas_semana": 3,
+        "duracao": 2
+      },
+      {
+        "turma": "9A",
+        "professor": "Augusto",
+        "disciplina": "Física",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Augusto",
+        "disciplina": "Mat/Gramática",
+        "aulas_semana": 3,
+        "duracao": 2
+      },
+      {
+        "turma": "9A",
+        "professor": "Augusto",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Augusto",
+        "disciplina": "Mat/Literatura",
+        "aulas_semana": 2,
+        "duracao": 2
+      },
+      {
+        "turma": "9A",
+        "professor": "Dani",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Fabiano",
+        "disciplina": "História",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Financeiro 89",
+        "disciplina": "Emp.",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Henrique",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Pamela",
+        "disciplina": "Mat/Literatura",
+        "aulas_semana": 2,
+        "duracao": 2
+      },
+      {
+        "turma": "9A",
+        "professor": "Pamela",
+        "disciplina": "Biblioteca",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Renata",
+        "disciplina": "Geografia",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Sandro",
+        "disciplina": "Ciências",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Sandy",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "9A",
+        "professor": "Simone",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Aline",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Ana Leticia",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Angela",
+        "disciplina": "Gramática",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Angela",
+        "disciplina": "Literatura",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Augusto",
+        "disciplina": "Física",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Augusto",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Dani",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Fabiano",
+        "disciplina": "História",
+        "aulas_semana": 3,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Financeiro 89",
+        "disciplina": "Emp.",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Henrique",
+        "disciplina": "Ed. Fis.",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Leonel",
+        "disciplina": "Matemática",
+        "aulas_semana": 5,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Renata",
+        "disciplina": "Geografia",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Sandro",
+        "disciplina": "Ciências",
+        "aulas_semana": 2,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Sandy",
+        "disciplina": "Artes",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Simone",
+        "disciplina": "Maker",
+        "aulas_semana": 1,
+        "duracao": 1
+      },
+      {
+        "turma": "8A",
+        "professor": "Yoga",
+        "disciplina": "Yoga",
+        "aulas_semana": 1,
+        "duracao": 1
+      }
+    ]
+  },
+  "catalogos": {
+    "professores": [
+      {
+        "nome": "Aline"
+      },
+      {
+        "nome": "Vica"
+      },
+      {
+        "nome": "Ana Leticia"
+      },
+      {
+        "nome": "Angela"
+      },
+      {
+        "nome": "Augusto"
+      },
+      {
+        "nome": "Fabiano"
+      },
+      {
+        "nome": "Henrique"
+      },
+      {
+        "nome": "Janna"
+      },
+      {
+        "nome": "Joice"
+      },
+      {
+        "nome": "Pamela"
+      },
+      {
+        "nome": "Leonel"
+      },
+      {
+        "nome": "Renata"
+      },
+      {
+        "nome": "Sandro"
+      },
+      {
+        "nome": "Sandy"
+      },
+      {
+        "nome": "Simone"
+      },
+      {
+        "nome": "Dani"
+      },
+      {
+        "nome": "Yoga"
+      },
+      {
+        "nome": "Financeiro 89"
+      }
+    ],
+    "turmas": [
+      {
+        "nome": "6A"
+      },
+      {
+        "nome": "6B"
+      },
+      {
+        "nome": "7A"
+      },
+      {
+        "nome": "7B"
+      },
+      {
+        "nome": "7C"
+      },
+      {
+        "nome": "8A"
+      },
+      {
+        "nome": "9A"
+      }
+    ],
+    "disciplinas": [
+      {
+        "nome": "Matemática"
+      },
+      {
+        "nome": "Física"
+      },
+      {
+        "nome": "Educação Física"
+      }
+    ]
+  },
+  "resultado": [
+    {
+      "oferta": "CAD-57DB9D4B7A",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-E60AD04B6E",
+      "ocorrencia": 3,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-BCD3D97819",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "7A",
+        "7B",
+        "7C"
+      ],
+      "disciplina": "Artes",
+      "professores": [
+        "Ana Leticia",
+        "Dani",
+        "Sandy"
+      ]
+    },
+    {
+      "oferta": "CAD-1D1FBC0BB9",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-8081EB7993",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Física",
+      "professores": [
+        "Augusto"
+      ]
+    },
+    {
+      "oferta": "CAD-80821DDEE2",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "6A",
+        "6B"
+      ],
+      "disciplina": "Artes",
+      "professores": [
+        "Ana Leticia",
+        "Dani",
+        "Sandy"
+      ]
+    },
+    {
+      "oferta": "CAD-B948A21EA1",
+      "ocorrencia": 3,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-B30C4FDAF9",
+      "ocorrencia": 3,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-BFFD62E82B",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Física",
+      "professores": [
+        "Augusto"
+      ]
+    },
+    {
+      "oferta": "CAD-258B96FFF4",
+      "ocorrencia": 3,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-B602E73502",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-E047483488",
+      "ocorrencia": 5,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Janna"
+      ]
+    },
+    {
+      "oferta": "CAD-184EC172EA",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Física",
+      "professores": [
+        "Augusto"
+      ]
+    },
+    {
+      "oferta": "CAD-BF72F273B7",
+      "ocorrencia": 3,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-594486B926",
+      "ocorrencia": 5,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-A11B592E83",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-5D47F6E427",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Artes",
+      "professores": [
+        "Ana Leticia",
+        "Dani",
+        "Sandy"
+      ]
+    },
+    {
+      "oferta": "CAD-E5625FFD96",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-E047483488",
+      "ocorrencia": 3,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Janna"
+      ]
+    },
+    {
+      "oferta": "CAD-C6E5FF2878",
+      "ocorrencia": 3,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-0040FC8D0D",
+      "ocorrencia": 2,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-8E0B3A4400",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Física",
+      "professores": [
+        "Augusto"
+      ]
+    },
+    {
+      "oferta": "CAD-D0003E3A69",
+      "ocorrencia": 2,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-0B852C4E26",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Angela"
+      ]
+    },
+    {
+      "oferta": "CAD-42ECB8F9FE",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Artes",
+      "professores": [
+        "Ana Leticia",
+        "Dani",
+        "Sandy"
+      ]
+    },
+    {
+      "oferta": "CAD-2E999BE099",
+      "ocorrencia": 2,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-6EE52F0293",
+      "ocorrencia": 3,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Janna"
+      ]
+    },
+    {
+      "oferta": "CAD-E5AE9C6FA3",
+      "ocorrencia": 1,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Física",
+      "professores": [
+        "Augusto"
+      ]
+    },
+    {
+      "oferta": "CAD-594486B926",
+      "ocorrencia": 3,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-4B65B3157A",
+      "ocorrencia": 2,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-AE6027B015",
+      "ocorrencia": 3,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Angela"
+      ]
+    },
+    {
+      "oferta": "CAD-E5625FFD96",
+      "ocorrencia": 2,
+      "dia": "Segunda",
+      "dia_idx": 0,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-8F90CA8D98",
+      "ocorrencia": 3,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-6EE52F0293",
+      "ocorrencia": 5,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Janna"
+      ]
+    },
+    {
+      "oferta": "CAD-84C08E5BF4",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "7A",
+        "7B",
+        "7C"
+      ],
+      "disciplina": "Ed. Fis.",
+      "professores": [
+        "Aline",
+        "Henrique"
+      ]
+    },
+    {
+      "oferta": "CAD-1D1FBC0BB9",
+      "ocorrencia": 4,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-E8A507A996",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-E047483488",
+      "ocorrencia": 4,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Janna"
+      ]
+    },
+    {
+      "oferta": "CAD-B4F0689C57",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-BF72F273B7",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-F993AEE4DA",
+      "ocorrencia": 3,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-D0003E3A69",
+      "ocorrencia": 3,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-AE6027B015",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Angela"
+      ]
+    },
+    {
+      "oferta": "CAD-BECAC71CD5",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Ed. Fis.",
+      "professores": [
+        "Aline",
+        "Henrique"
+      ]
+    },
+    {
+      "oferta": "CAD-17F3FF2BB9",
+      "ocorrencia": 3,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-CADE29EDC8",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-0988865CC2",
+      "ocorrencia": 1,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-594486B926",
+      "ocorrencia": 4,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-FCC97D885F",
+      "ocorrencia": 1,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-0CA5D9FF8E",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Ed. Fis.",
+      "professores": [
+        "Aline",
+        "Henrique"
+      ]
+    },
+    {
+      "oferta": "CAD-0BE878A337",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 3,
+      "duracao": 2,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Mat/Gramática",
+      "professores": [
+        "Angela",
+        "Augusto"
+      ]
+    },
+    {
+      "oferta": "CAD-EA322492A2",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "6A",
+        "6B"
+      ],
+      "disciplina": "Ed. Fis.",
+      "professores": [
+        "Aline",
+        "Henrique"
+      ]
+    },
+    {
+      "oferta": "CAD-E6896A6046",
+      "ocorrencia": 3,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-A11D392DDB",
+      "ocorrencia": 1,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-7542988571",
+      "ocorrencia": 3,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-A6660FFE6C",
+      "ocorrencia": 1,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Yoga",
+      "professores": [
+        "Yoga"
+      ]
+    },
+    {
+      "oferta": "CAD-162B98EA7F",
+      "ocorrencia": 1,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "6A",
+        "6B"
+      ],
+      "disciplina": "Yoga",
+      "professores": [
+        "Yoga"
+      ]
+    },
+    {
+      "oferta": "CAD-B948A21EA1",
+      "ocorrencia": 5,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-A5F43C20D3",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-4F4B74C2AF",
+      "ocorrencia": 1,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-0B852C4E26",
+      "ocorrencia": 3,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Angela"
+      ]
+    },
+    {
+      "oferta": "CAD-76F016FFF2",
+      "ocorrencia": 1,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 5,
+      "duracao": 2,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Mat/Literatura",
+      "professores": [
+        "Augusto",
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-2D8EED4FF9",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 6,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-C6E5FF2878",
+      "ocorrencia": 2,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 6,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-CDDC73189C",
+      "ocorrencia": 1,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 6,
+      "duracao": 1,
+      "turmas": [
+        "7A",
+        "7B",
+        "7C"
+      ],
+      "disciplina": "Yoga",
+      "professores": [
+        "Yoga"
+      ]
+    },
+    {
+      "oferta": "CAD-AE6027B015",
+      "ocorrencia": 1,
+      "dia": "Terça",
+      "dia_idx": 1,
+      "inicio": 6,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Angela"
+      ]
+    },
+    {
+      "oferta": "CAD-E7011CF301",
+      "ocorrencia": 1,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Física",
+      "professores": [
+        "Augusto"
+      ]
+    },
+    {
+      "oferta": "CAD-0844EC0208",
+      "ocorrencia": 2,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-3CB797E401",
+      "ocorrencia": 2,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-B30C4FDAF9",
+      "ocorrencia": 1,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-FCC97D885F",
+      "ocorrencia": 3,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-5FE2C14449",
+      "ocorrencia": 1,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Emp.",
+      "professores": [
+        "Financeiro 89"
+      ]
+    },
+    {
+      "oferta": "CAD-E8A507A996",
+      "ocorrencia": 3,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-7E7AFA37AB",
+      "ocorrencia": 1,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "6A",
+        "6B"
+      ],
+      "disciplina": "Emp.",
+      "professores": [
+        "Joice"
+      ]
+    },
+    {
+      "oferta": "CAD-0040FC8D0D",
+      "ocorrencia": 1,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-A5F43C20D3",
+      "ocorrencia": 3,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-4B65B3157A",
+      "ocorrencia": 3,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-5F8118FF99",
+      "ocorrencia": 1,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-76F016FFF2",
+      "ocorrencia": 2,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 4,
+      "duracao": 2,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Mat/Literatura",
+      "professores": [
+        "Augusto",
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-2D8EED4FF9",
+      "ocorrencia": 1,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-E60AD04B6E",
+      "ocorrencia": 2,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-C7CC9651E3",
+      "ocorrencia": 1,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7A",
+        "7B",
+        "7C"
+      ],
+      "disciplina": "Emp.",
+      "professores": [
+        "Joice"
+      ]
+    },
+    {
+      "oferta": "CAD-258B96FFF4",
+      "ocorrencia": 1,
+      "dia": "Quarta",
+      "dia_idx": 2,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-E047483488",
+      "ocorrencia": 2,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Janna"
+      ]
+    },
+    {
+      "oferta": "CAD-CADE29EDC8",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-84C08E5BF4",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "7A",
+        "7B",
+        "7C"
+      ],
+      "disciplina": "Ed. Fis.",
+      "professores": [
+        "Aline",
+        "Henrique"
+      ]
+    },
+    {
+      "oferta": "CAD-1D1FBC0BB9",
+      "ocorrencia": 5,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-E8A507A996",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-57DB9D4B7A",
+      "ocorrencia": 3,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-6EE52F0293",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Janna"
+      ]
+    },
+    {
+      "oferta": "CAD-3CB797E401",
+      "ocorrencia": 3,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-A11D392DDB",
+      "ocorrencia": 2,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-D0003E3A69",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-0B852C4E26",
+      "ocorrencia": 2,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Angela"
+      ]
+    },
+    {
+      "oferta": "CAD-BECAC71CD5",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Ed. Fis.",
+      "professores": [
+        "Aline",
+        "Henrique"
+      ]
+    },
+    {
+      "oferta": "CAD-EA322492A2",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "6A",
+        "6B"
+      ],
+      "disciplina": "Ed. Fis.",
+      "professores": [
+        "Aline",
+        "Henrique"
+      ]
+    },
+    {
+      "oferta": "CAD-B948A21EA1",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-A5F43C20D3",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-7542988571",
+      "ocorrencia": 2,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-5F8118FF99",
+      "ocorrencia": 2,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-0BE878A337",
+      "ocorrencia": 3,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 3,
+      "duracao": 2,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Mat/Gramática",
+      "professores": [
+        "Angela",
+        "Augusto"
+      ]
+    },
+    {
+      "oferta": "CAD-8F90CA8D98",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-E60AD04B6E",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-B948A21EA1",
+      "ocorrencia": 4,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-90D3C95B20",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-4F4B74C2AF",
+      "ocorrencia": 2,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-0CA5D9FF8E",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Ed. Fis.",
+      "professores": [
+        "Aline",
+        "Henrique"
+      ]
+    },
+    {
+      "oferta": "CAD-17F3FF2BB9",
+      "ocorrencia": 2,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-CADE29EDC8",
+      "ocorrencia": 3,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-0988865CC2",
+      "ocorrencia": 2,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-594486B926",
+      "ocorrencia": 2,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-FCC97D885F",
+      "ocorrencia": 2,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-6FCDF1543B",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-0BE878A337",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 5,
+      "duracao": 2,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Mat/Gramática",
+      "professores": [
+        "Angela",
+        "Augusto"
+      ]
+    },
+    {
+      "oferta": "CAD-2E999BE099",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 6,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-B4F0689C57",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 6,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Ciências",
+      "professores": [
+        "Sandro"
+      ]
+    },
+    {
+      "oferta": "CAD-E6896A6046",
+      "ocorrencia": 2,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 6,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-F993AEE4DA",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 6,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-4B65B3157A",
+      "ocorrencia": 1,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 6,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-1D1FBC0BB9",
+      "ocorrencia": 3,
+      "dia": "Quinta",
+      "dia_idx": 3,
+      "inicio": 6,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-E952DC52CF",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "6A",
+        "6B"
+      ],
+      "disciplina": "Maker",
+      "professores": [
+        "Augusto",
+        "Simone"
+      ]
+    },
+    {
+      "oferta": "CAD-BF72F273B7",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-F993AEE4DA",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-D0003E3A69",
+      "ocorrencia": 5,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-6FCDF1543B",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-E5625FFD96",
+      "ocorrencia": 3,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 1,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-17F3FF2BB9",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-0844EC0208",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-E6896A6046",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-594486B926",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-DAACB665D9",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "7C",
+        "8A"
+      ],
+      "disciplina": "Maker",
+      "professores": [
+        "Augusto",
+        "Simone"
+      ]
+    },
+    {
+      "oferta": "CAD-CFD174BAB6",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 2,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Biblioteca",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-E047483488",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Janna"
+      ]
+    },
+    {
+      "oferta": "CAD-C6E5FF2878",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-3CB797E401",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-B30C4FDAF9",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Gramática",
+      "professores": [
+        "Vica"
+      ]
+    },
+    {
+      "oferta": "CAD-A11B592E83",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-1D1FBC0BB9",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-E7F67AD72A",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 3,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Maker",
+      "professores": [
+        "Augusto",
+        "Simone"
+      ]
+    },
+    {
+      "oferta": "CAD-8F90CA8D98",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-6EE52F0293",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Janna"
+      ]
+    },
+    {
+      "oferta": "CAD-A55E58EF72",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7A",
+        "7B"
+      ],
+      "disciplina": "Maker",
+      "professores": [
+        "Augusto",
+        "Simone"
+      ]
+    },
+    {
+      "oferta": "CAD-D0003E3A69",
+      "ocorrencia": 4,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-258B96FFF4",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-B602E73502",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 4,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-57DB9D4B7A",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "6A"
+      ],
+      "disciplina": "História",
+      "professores": [
+        "Fabiano"
+      ]
+    },
+    {
+      "oferta": "CAD-6EE52F0293",
+      "ocorrencia": 4,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "6B"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Janna"
+      ]
+    },
+    {
+      "oferta": "CAD-B948A21EA1",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7A"
+      ],
+      "disciplina": "Matemática",
+      "professores": [
+        "Leonel"
+      ]
+    },
+    {
+      "oferta": "CAD-90D3C95B20",
+      "ocorrencia": 2,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7B"
+      ],
+      "disciplina": "Geografia",
+      "professores": [
+        "Renata"
+      ]
+    },
+    {
+      "oferta": "CAD-7542988571",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "7C"
+      ],
+      "disciplina": "Literatura",
+      "professores": [
+        "Pamela"
+      ]
+    },
+    {
+      "oferta": "CAD-BE49B17008",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "8A"
+      ],
+      "disciplina": "Física",
+      "professores": [
+        "Augusto"
+      ]
+    },
+    {
+      "oferta": "CAD-ECAF3C14E4",
+      "ocorrencia": 1,
+      "dia": "Sexta",
+      "dia_idx": 4,
+      "inicio": 5,
+      "duracao": 1,
+      "turmas": [
+        "9A"
+      ],
+      "disciplina": "Emp.",
+      "professores": [
+        "Financeiro 89"
+      ]
+    }
+  ],
+  "travas": [],
+  "manual_changes": 0,
+  "status": "FEASIBLE",
+  "config": {
+    "n_days": 5,
+    "n_periods": 6,
+    "weights": {
+      "janelas": 6,
+      "equilibrio": 20,
+      "repeticao": 20
+    },
+    "time_limit": 800,
+    "day_default": "Sem limite",
+    "day_rules": {
+      "Ed. Fis.": "1"
+    },
+    "pdf": {
+      "pdf_school": "Umbrella",
+      "pdf_subtitle": "2027",
+      "pdf_color": true,
+      "pdf_times_on": true,
+      "pdf_start": "07:30",
+      "pdf_lesson": 50,
+      "pdf_break_after": 3,
+      "pdf_break_min": 20
+    }
+  }
+}

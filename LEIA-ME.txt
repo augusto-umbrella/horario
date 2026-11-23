@@ -1,0 +1,61 @@
+GERADOR DE HORÁRIOS ESCOLARES — V6
+
+1. COMO ABRIR
+   Dê dois cliques em iniciar_gerador.bat.
+   Na primeira execução, o programa cria o ambiente Python local (.venv)
+   e instala as dependências. Isso pode demorar alguns minutos e exige internet.
+   Nas próximas execuções, basta abrir o mesmo arquivo.
+
+2. CRIAR ATALHO NA ÁREA DE TRABALHO
+   Abra o PowerShell nesta pasta e execute:
+   powershell -ExecutionPolicy Bypass -File .\criar_atalho.ps1
+   Será criado um atalho "Gerador de Horários Escolares" na Área de Trabalho.
+
+3. DADOS SALVOS
+   O arquivo dados_horarios.json é criado automaticamente na pasta do aplicativo.
+   Faça cópias de segurança desse arquivo. Não o apague ao atualizar o programa.
+   Para manter seus dados, extraia a nova versão na mesma pasta ou copie o JSON
+   para a pasta da nova versão antes de abrir o aplicativo.
+
+4. SINCRONIZAÇÃO
+   Na aba "Ofertas e Excel", use a tabela "Sincronização manual das aulas".
+   Digite o mesmo nome de grupo nas ofertas que devem ocorrer simultaneamente.
+   A regra vale para ofertas manuais e para ofertas geradas pelo cadastro de turmas.
+   Ofertas de um mesmo grupo precisam ter a mesma frequência semanal e duração.
+
+5. BLOQUEIOS
+   Na aba "Restrições e preferências", selecione o professor e marque na grade
+   os períodos em que ele não pode dar aula. Desmarque para retirar o bloqueio.
+   Para bloquear o dia inteiro, marque todas as aulas daquele dia.
+
+6. OBSERVAÇÕES
+   O programa modela horários por número de período (Aula 1, Aula 2 etc.).
+   A grade de bloqueios usa esses mesmos períodos; não há ainda cadastro de
+   horários de relógio (por exemplo, 07:00–07:50).
+   O arquivo .bat inicia o aplicativo Streamlit localmente no navegador.
+   Não é um executável .exe independente.
+
+NOVIDADES (relatórios)
+- Arquivo novo: pdf_horarios.py (deve ficar na mesma pasta do app.py).
+- Aba Relatórios: PDF único com capa, índice clicável, marcadores, todas as turmas, todos os professores
+  e quadros gerais por dia; PDFs individuais (ZIP); planilha Excel com uma aba por turma/professor;
+  PDF de um único horário; personalização (escola, subtítulo, cores ou preto e branco, horário de cada aula).
+- Conferência de regras (teto por professor e carga exata por turma), janelas por turma/professor
+  e consulta "Quem está livre?" para substituições.
+- Grupos de sincronização agora fundem as ofertas em uma aula única (resolve o INFEASIBLE causado por
+  professor repetido em turmas simultâneas).
+
+NOVIDADE (diagnóstico de conflitos)
+- Arquivo novo: diagnostico.py (mesma pasta do app.py).
+- Se o horário não for possível, a aba "Gerar / reotimizar" mostra automaticamente quais regras se contradizem:
+  contas rápidas, tipos de regra mais envolvidos, ranking das regras que mais deram problema e cada conflito
+  explicado. Há também o botão "Diagnosticar conflitos (sem gerar o horário)" e o download do diagnóstico em .txt.
+
+NOVIDADES (editor visual, limite por dia, tempo)
+- Arquivo novo: editor_horarios.py (mesma pasta do app.py). O editor deixou de usar arrastar e soltar:
+  agora é por cliques (clique na aula, depois no destino) e não precisa mais do pacote streamlit-sortables.
+- O editor valida cada movimento e mostra, para a aula escolhida: 🟢 horário livre, 🔁 troca possível,
+  🟡 possível reorganizando outras aulas (busca automática com o CP-SAT), 🔴 impossível (com o motivo).
+  Tem desfazer, travas automáticas, "Melhorar mantendo minhas edições" e lista de conflitos.
+- Barra lateral > Regras obrigatórias: máximo de aulas da mesma disciplina por dia (padrão e exceções por disciplina).
+- Tempo máximo de geração: até 1800 s (o padrão para instalações novas é 120 s).
